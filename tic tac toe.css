@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Roboto&display=swap');
 
-
-
 .gameContainer{ 
     display: flex;
     justify-content: center;
@@ -37,10 +35,7 @@
     padding: 0 34px;
     font-family: 'Baloo Bhaina 2', cursive;
     font-size: 20px;
-
 }
-
-
 
 .border-right-0{
     border-right: 0;
